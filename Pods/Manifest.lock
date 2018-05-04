@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.7.0)
+  - Cosmos (15.0.0)
+  - DropDown (2.3.1)
+  - RangeSeekSlider (1.7.0)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Alamofire (~> 4.0)
+  - Cosmos (~> 15.0)
+  - DropDown
+  - RangeSeekSlider
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Cosmos
+    - DropDown
+    - RangeSeekSlider
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 907e0a98eb68cdb7f9d1f541a563d6ac5dc77b25
+  Cosmos: a6dbd3d0baa0cc8f51f8598f7508d5a09d0a9ade
+  DropDown: 20499c7b2731b0d21609af924e47c7677a2be50d
+  RangeSeekSlider: 0386c5a9aa5ebcb2fa5238e8a627280cf46c7c0a
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: a8a7bde522d43dbd428db08b4b05375783325fef
+
+COCOAPODS: 1.5.0
